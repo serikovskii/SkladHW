@@ -1,0 +1,5 @@
+C:\Users\azat\source\repos\SkladHW\SkladHW.Models\bin\Debug\SkladHW.Models.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW.Models\bin\Debug\SkladHW.Models.pdb
+C:\Users\azat\source\repos\SkladHW\SkladHW.Models\obj\Debug\SkladHW.Models.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\SkladHW\SkladHW.Models\obj\Debug\SkladHW.Models.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW.Models\obj\Debug\SkladHW.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\SkladHW.exe.config
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\SkladHW.exe
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\SkladHW.pdb
+C:\Users\azat\source\repos\SkladHW\SkladHW\obj\Debug\SkladHW.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\SkladHW\SkladHW\obj\Debug\SkladHW.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\SkladHW\SkladHW\obj\Debug\SkladHW.exe
+C:\Users\azat\source\repos\SkladHW\SkladHW\obj\Debug\SkladHW.pdb
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\EntityFramework.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\EntityFramework.xml
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\azat\source\repos\SkladHW\SkladHW\obj\Debug\SkladHW.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿<Window x:Class="SkladHW.WPF.DeleteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkladHW.WPF"
+        mc:Ignorable="d"
+        Title="DeleteWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Grid Height="100" >
+                <TextBlock FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center">Склад магазина -> Удаление товара</TextBlock>
+            </Grid>
+            <Grid Height="70" >
+                <TextBlock FontSize="15" Margin="300 0 0 0">Введите название</TextBlock>
+                <TextBox Name="nameProduct" Height="30" Width="200" Background="LightGray" FontSize="20" ></TextBox>
+            </Grid>
+            <Grid Height="20" ></Grid>
+            <Grid Height="70" >
+                <Button Height="70" Width="200" Content="Удалить товар" FontSize="25" IsDefault="True" Click="DeleteProductButton"></Button>
+            </Grid>
+            <Grid Height="20" ></Grid>
+        </StackPanel>
+    </Grid>
+</Window>
